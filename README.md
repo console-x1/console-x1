@@ -9,18 +9,19 @@ Développeur full-stack | En cours d'apprentissage.
 ## 🚀 À propos de moi
 
 - 🎯 Je construis des outils concrets et des bots utiles.
-- 🧠 J’aime les systèmes bien structurés, et les projets qui sortent de l’ordinaire.
-- 🔧 J'apprend : `Node.js`, `JavaScript`, `SQLite`, `HTML/CSS`, `C++`, `Shell`
+- 🧠 J’aime le backend (et pas le front).
+- 🔧 J'apprend : `Node.js`, `JavaScript`, `SQLite`, `HTML/CSS` et rarement `C++`
 ---
 
 ## 🧰 Compétences techniques
 
 ```txt
-💻 Langages     : JavaScript / C++ / HTML5 / CSS3 / SQLite3
-🛠️ Backend      : Node.js / Express / SQLite
+💻 Langages     : JavaScript / HTML5 / CSS3
+🛠️ Backend      : Node.js / Express / SQLite3
 🧠 Logiciel     : Git / GitHub / VS Code
 🧱 Frontend     : Vanilla JS / Canvas / Chart.js
 ```
+En plus de ça, j'arrive a lire pas mal de langue tel que le python, ou le C++ lorsqu'il est on ne peux plus simple... 
 
 ---
 
