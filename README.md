@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c’est console-x1 👋</h1>
 
 <p align="center">
-Développeur full-stack | En cours d'apprentissage.
+	Développeur full-stack | En cours d'apprentissage.
 </p>
 
 ---
@@ -21,17 +21,26 @@ Développeur full-stack | En cours d'apprentissage.
 🧠 Logiciel     : Git / GitHub / VS Code
 🧱 Frontend     : Vanilla JS / Canvas / Chart.js
 ```
-En plus de ça, j'arrive a lire pas mal de langue tel que le python, ou le C++ lorsqu'il est on ne peux plus simple... 
+En plus de ça, j'arrive a lire le python et casiment tout les codes nodejs que je trouve... 
 
 ---
 
 ## 📊 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=console-x1&show_icons=true&theme=radical" alt="Stats GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=console-x1&layout=compact&theme=radical" alt="Langues les plus utilisées" />
+	<img src='https://github-readme-stats.vercel.app/api?username=console-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=true'>
+	<br/>
+	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=console-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact'>
+	<br/>
+	<img src='https://github-readme-streak-stats.herokuapp.com/?user=console-x1&theme=dark&hide_border=false'>
 </p>
+
+
+## 🏆 GitHub Trophies
+<p align="center">
+	<img src='https://github-profile-trophy.vercel.app/?username=console-x1&theme=radical&no-frame=false&no-bg=false&margin-w=4'>
+</p>
+
 
 ---
 
