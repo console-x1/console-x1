@@ -28,9 +28,7 @@ En plus de ça, j'arrive a lire le python et casiment tout les codes nodejs que 
 ## 📊 Stats GitHub
 
 <p align="center">
-	<img src='https://github-readme-stats.vercel.app/api?username=console-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=true'>
-	<br/>
-	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=console-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact'>
+	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=console-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact'>
 	<br/>
 	<img src='https://github-readme-streak-stats.herokuapp.com/?user=console-x1&theme=dark&hide_border=false'>
 </p>
