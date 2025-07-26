@@ -37,6 +37,7 @@ En plus de ça, j'arrive a lire le python et casiment tout les codes nodejs que 
 ## 🏆 GitHub Trophies
 <p align="center">
 	<img src='https://github-profile-trophy.vercel.app/?username=console-x1&theme=radical&no-frame=false&no-bg=false&margin-w=4'>
+	<img src='https://komarev.com/ghpvc/?username=console-x1&style=for-the-badge'>
 </p>
 
 
