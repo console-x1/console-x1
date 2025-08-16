@@ -9,19 +9,19 @@
 ## 🚀 À propos de moi
 
 - 🎯 Je construis des outils concrets et des bots utiles.
-- 🧠 J’aime le backend (et pas le front).
-- 🔧 J'apprend : `Node.js`, `JavaScript`, `SQLite`, `HTML/CSS` et rarement `C++`
+- 🧠 J’aime le backend (le front j’ai plus de mal, j’apprend).
+- 🔧 J'apprend : `Node.js`, `JavaScript`, `SQLite`, `HTML/CSS`, `Typescript`, `Python` et un petit peu le `C++`
+
 ---
 
 ## 🧰 Compétences techniques
 
 ```txt
-💻 Langages     : JavaScript / HTML5 / CSS3
+💻 Langages     : JavaScript / Typescript / HTML5 / CSS3
 🛠️ Backend      : Node.js / Express / SQLite3
 🧠 Logiciel     : Git / GitHub / VS Code
-🧱 Frontend     : Vanilla JS / Canvas / Chart.js
+🧱 Frontend     : Vanilla JS / Canvas / Vanilla CSS
 ```
-En plus de ça, j'arrive a lire le python et casiment tout les codes nodejs que je trouve... 
 
 ---
 
