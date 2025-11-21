@@ -17,10 +17,10 @@
 ## 🧰 Compétences techniques
 
 ```txt
-💻 Langages     : JavaScript / Typescript / HTML5 / CSS3
+💻 Langages     : JavaScript / Typescript / HTML5 / CSS3 / EJS
 🛠️ Backend      : Node.js / Express / SQLite3
 🧠 Logiciel     : Git / GitHub / VS Code
-🧱 Frontend     : Vanilla JS / Canvas / Vanilla CSS
+🧱 Frontend     : Vanilla JS / Canvas / Vanilla CSS / Tailwind
 ```
 
 ---
