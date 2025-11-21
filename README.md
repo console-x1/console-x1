@@ -45,8 +45,9 @@
 
 ## 🔗 Liens utiles
 
-* 🧠 Portfolio : *Soon...*
-* 💬 Discord : `.power.x`
+* 🧠 Portfolio : *http://88.151.197.191:2027/*
+* 💬 Discord : `.power.x` (<a href="https://discord.com/users/1066067393123733595
+">ICI</a>)
 * 📫 Me contacter : `x1.fonda@gmail.com`
 * 📈 NPM : `https://www.npmjs.com/~power.x`
 
