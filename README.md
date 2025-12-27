@@ -31,7 +31,7 @@
 ## 📊 Stats GitHub
 
 <p align="center">
-	<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=console-x1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact'>
+	<img src='https://github-readme-stats-fast.vercel.app/api/top-langs/?username=console-x1&theme=dark&layout=compact&show-icons=true'>
 	<br/>
 	<img src='https://github-readme-streak-stats.herokuapp.com/?user=console-x1&theme=dark&hide_border=false'>
 </p>
@@ -39,7 +39,6 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-	<img src='https://github-profile-trophy.vercel.app/?username=console-x1&theme=radical&no-frame=false&no-bg=false&margin-w=4'>
 	<img src='https://komarev.com/ghpvc/?username=console-x1&style=for-the-badge'>
 </p>
 
