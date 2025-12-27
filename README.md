@@ -15,7 +15,9 @@
 ---
 
 ## 🧰 Compétences techniques
-
+<p align="center">
+	<img src='https://skillicons.dev/icons?i=discordjs,express,js,ts,nodejs,py,css,html,sqlite,discord,vscode,github,git,npm,windows,arch&theme=dark&perline=8'>
+</p>
 ```txt
 💻 Langages     : JavaScript / Typescript / HTML5 / CSS3 / EJS
 🛠️ Backend      : Node.js / Express / SQLite3
