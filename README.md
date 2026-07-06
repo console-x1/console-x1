@@ -2,6 +2,8 @@
 
 <p align="center">
 	Développeur full-stack | En cours d'apprentissage.
+	<br>
+	<img src='https://wakatime.com/badge/user/9b14ada4-a8cd-4e4d-afd4-ae0444dd3e51.svg'>
 </p>
 
 ---
