@@ -49,7 +49,7 @@
 
 ## 🔗 Liens utiles
 
-* 🧠 Portfolio : *http://88.151.197.191:2027/*
+* 🧠 Portfolio : *https://me.consolex1.com/*
 * 💬 Discord : `.power.x` (<a href="https://discord.com/users/1066067393123733595
 ">ICI</a>)
 * 📫 Me contacter : `x1.fonda@gmail.com`
