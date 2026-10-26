@@ -50,9 +50,10 @@
 ## 🔗 Liens utiles
 
 * 🧠 Portfolio : *https://me.consolex1.com/*
+* ☁️ consolex1 [HOST] : *https://consolex1.com/*
 * 💬 Discord : `.power.x` (<a href="https://discord.com/users/1066067393123733595
 ">ICI</a>)
-* 📫 Me contacter : `x1.fonda@gmail.com`
+* 📫 Me contacter : `x1.fonda@gmail.com` OU `consolex1@consolex1.com`
 * 📈 NPM : `https://www.npmjs.com/~power.x`
 
 ---
