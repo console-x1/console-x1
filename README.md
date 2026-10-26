@@ -13,12 +13,13 @@
 - 🎯 Je construis des outils concrets et des bots utiles.
 - 🧠 J’aime le backend (le front j’ai plus de mal, j’apprend).
 - 🔧 J'apprend : `Node.js`, `JavaScript`, `SQLite`, `HTML/CSS`, `Typescript`, `Python` et un petit peu le `C++`
+- ☁️ J'ai crée consolex1 [HOST] (https://consolex1.com) pour permettre à tous d'héberger gratuitement !
 
 ---
 
 ## 🧰 Compétences techniques
 <p align="center">
-	<img src='https://skillicons.dev/icons?i=discordjs,express,js,ts,nodejs,py,css,html,sqlite,discord,vscode,github,git,npm,windows,arch&theme=dark&perline=8'>
+	<img src='https://skillicons.dev/icons?i=discordjs,js,ts,nodejs,css,html,py,sqlite,next,express,discord,vscode,github,git,npm,docker,ubuntu,windows&theme=dark&perline=9'>
 </p>
 
 ```txt
