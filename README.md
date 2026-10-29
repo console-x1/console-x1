@@ -23,7 +23,7 @@
 </p>
 
 ```txt
-💻 Langages     : JavaScript / Typescript / HTML5 / CSS3 / EJS
+💻 Langages     : JavaScript / Typescript / Python / EJS
 🛠️ Backend      : Node.js / Express / SQLite3
 🧠 Logiciel     : Git / GitHub / VS Code
 🧱 Frontend     : Vanilla JS / Canvas / Vanilla CSS / Tailwind
@@ -59,4 +59,4 @@
 
 ---
 
-> *Construire c’est bien. Partager, c’est mieux.*
+> *Héberger gratuitement devrait être un droit, pas un cauchemar.*
